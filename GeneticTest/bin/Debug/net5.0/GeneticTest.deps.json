@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GeneticTest/1.0.0": {
+        "dependencies": {
+          "GeneticLearning": "1.0.0"
+        },
+        "runtime": {
+          "GeneticTest.dll": {}
+        }
+      },
+      "GeneticLearning/1.0.0": {
+        "runtime": {
+          "GeneticLearning.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeneticTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeneticLearning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
